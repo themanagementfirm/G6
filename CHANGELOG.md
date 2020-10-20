@@ -1,5 +1,8 @@
 # ChangeLog
 
+#### 3.8.2
+- feat: destroyLayout API for graph, closes: #2140;
+
 #### 3.8.1
 - fix: update edge states with updateItem problem, closes: #2142;
 - fix: create-edge behavior with polyline problem, closes: #2165;
