@@ -2,6 +2,7 @@
 
 #### 3.8.2
 - feat: destroyLayout API for graph, closes: #2140;
+- fix: svg renderer minimap hidden elements probem, closes: #2174;
 
 #### 3.8.1
 - fix: update edge states with updateItem problem, closes: #2142;
